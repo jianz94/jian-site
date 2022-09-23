@@ -17,6 +17,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep graph learning and machine learning security. 
 
+experience: 
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 # Interests to show in About widget
 interests:
@@ -41,7 +55,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: form "mailto:zhang.jian-94@outlook.com"
+    link: "/#contact"
   - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=BF9fKAEAAAAJ&hl=zh-CN
