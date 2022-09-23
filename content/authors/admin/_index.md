@@ -17,20 +17,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep graph learning and machine learning security. 
 
-experience: 
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
 # Interests to show in About widget
 interests:
