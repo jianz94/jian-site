@@ -12,10 +12,25 @@ superuser: true
 organizations:
   - name: School of Cyberspace Security
   - name: Hangzhou Dianzi University
-    url: https://www.hud.edu.cn/
+    url: https://www.hdu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep graph learning and machine learning security. 
+
+experience: 
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 # Interests to show in About widget
 interests:
@@ -40,19 +55,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: form "mailto:zhang.jian-94@outlook.com"
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=BF9fKAEAAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
     link: https://github.com/jianz94
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,9 +76,4 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Jian Zhang received his Ph.D degree from Zhejiang University 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Jian Zhang received his Ph.D degree in Control Science and Technology from Zhejiang University of Technology in 2022. He now is a lecutrer with School of Cyberspace Security, Hangzhou Dianzi University, Hangzhou, China. He was a visiting scholar in City University of Hongkong in 2018. And he once worked with Zhijiang Lab and Netease Fuxi AI Lab during his interships. His research interests includes data mining, deep graph learning and its application on security-related task like financial fraud detection. Any relevant research research cooperation is welcomed.
