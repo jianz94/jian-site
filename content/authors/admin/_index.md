@@ -11,7 +11,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: School of Cyberspace Security
-  - name: Hangdian University
+  - name: Hangzhou Dianzi University
     url: https://www.hud.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
